@@ -14,5 +14,3 @@ function retornarDobro (numero) {
 
 let valorDoDobroNumero = retornarDobro (numero1);
 console.log (`O dobro de ${numero1} é ${valorDoDobroNumero}.`);
-
-// teste
